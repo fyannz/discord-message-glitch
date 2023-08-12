@@ -35,6 +35,6 @@ Just type _ _ and send the message
 ```
 
 ## Edited Trick
-(Click here)[https://lingojam.com/Discord%28edited%29Glitch]
+[Click here](https://lingojam.com/Discord%28edited%29Glitch)
 
 # Thats all bye! <3
